@@ -5,4 +5,8 @@ The UWP Community Toolkit is a collection of helper functions, custom controls, 
 
 ===
 
-This fork will include a Scaffolder for a model
+This fork will include a Scaffolder for a model.
+
+Now it include properites of type
+ 
+String, Int, DateTimeOffset
